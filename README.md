@@ -2,13 +2,6 @@
 
 A demonstration of TCP communication where clients communicate with a server and receive acknowledgments. 
 
-## 📜 Table of Contents
-
-- [Communication Protocol](#communication-protocol)
-- [TCP Server](#tcp-server)
-- [TCP Client GUI](#tcp-client-gui)
-
-
 ## 📡 Communication Protocol
 
 ### Protocol Definition:
