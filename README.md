@@ -38,3 +38,7 @@ Handles multiple client connections simultaneously.
 - **Browsers**: 
   - `System Logs`, `Received Messages`.
 
+## To Start
+
+- Start the server application.
+- Start multiple client applications.
