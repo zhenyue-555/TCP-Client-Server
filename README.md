@@ -28,11 +28,11 @@ A demonstration of TCP communication where clients communicate with a server and
 - **Port**: `1502`
 
 - **Information Label**: 
-- `Server started on address: 127.0.0.1, port: 1502
+- `Server started on address`: 127.0.0.1, port: 1502
 - **Connected Clients Box**:
-- `list of all connected clients by their unique IDs.
+- `list of all connected clients by their unique IDs`.
 
-- `Handles multiple client connections simultaneously.
+- `Handles multiple client connections simultaneously`.
 
 ## 📟 TCP Client GUI:
 
