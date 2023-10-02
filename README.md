@@ -33,6 +33,7 @@ A demonstration of TCP communication where clients communicate with a server and
 - `list of all connected clients by their unique IDs`.
 
 - `Handles multiple client connections simultaneously`.
+- ![TCP Server](TestResults/echoserver.png)
 
 ## 📟 TCP Client GUI:
 
@@ -42,8 +43,35 @@ A demonstration of TCP communication where clients communicate with a server and
   - `Connect`, `Disconnect`, `Send`.
 - **Browsers**: 
   - `System Logs`, `Received Messages`.
+  - ![TCP Client](TestResults/echoclient2.png)
 
 ## To Start
 
 - Start the server application.
 - Start multiple client applications.
+
+### Test Results
+- server is not running
+- ![TCP Client](TestResults/servernotrunning.png)
+- server shutdown
+- ![TCP Client](TestResults/servershutdown.png)
+- unique client id
+- ![TCP Client](TestResults/uniqueclientid.png)
+- character check
+- ![TCP Client](TestResults/charactercheck2.png)
+- multiple clients
+- ![TCP Client](TestResults/multipleclients.png)
+- ![TCP Client](TestResults/multipleclients2.png)
+- invalid address
+- ![TCP Client](TestResults/invalidaddress.png)
+- invalid client id (non integer/null)
+- ![TCP Client](TestResults/invalidclientid_noninteger.png)
+- ![TCP Client](TestResults/invalidclientid_null.png)
+
+
+
+
+
+
+
+
